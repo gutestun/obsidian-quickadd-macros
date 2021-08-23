@@ -10,5 +10,5 @@ My first foray into JS. Expect messy comments and messier code.
 Asks for a property, then new value.
 Updates YAML / dataview property specified with value specified.
 
-Based on [quickadd/Macro_LogBookToDailyJournal.md at master · chhoumann/quickadd · GitHub](https://github.com/chhoumann/quickadd/blob/master/docs/Examples/Macro_LogBookToDailyJournal.md)
+Based on [LogBook to Daily Journal by chhoumann](https://github.com/chhoumann/quickadd/blob/master/docs/Examples/Macro_LogBookToDailyJournal.md) (quickadd plugin author)
 
